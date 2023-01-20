@@ -1,6 +1,17 @@
 # Operating-Systems-course-project (Paging Simulator)
 
-## Here is the report of the project , and below is the description:
+## Here is the report of the project , and below is the screens and description:
+
+![image](https://user-images.githubusercontent.com/110572038/213672183-123f66ea-fa50-45f8-b024-09ba3c02f2b6.png)
+
+![image](https://user-images.githubusercontent.com/110572038/213672343-29aff84b-a895-4f97-b886-dcc510868ded.png)
+
+![image](https://user-images.githubusercontent.com/110572038/213672386-75ef1282-aa62-4760-a3e2-36e78a63158e.png)
+
+![image](https://user-images.githubusercontent.com/110572038/213672458-82768bb3-9c99-45ff-845a-3523094ea414.png)
+
+![image](https://user-images.githubusercontent.com/110572038/213672523-f3f58bdc-a035-4166-8534-4c045b38a589.png)
+
 
 This project is a paging simulator that implements various page replacement algorithms such as Second Chance, Clock and FIFO, as well as a Round Robin CPU scheduling algorithm.
 
